@@ -1,4 +1,4 @@
-# real-estate-analytics-lstm
+# Predictive Modeling for Accurate Housing Price Estimation Using LSTM Networks
 A deep learning-based real estate forecasting system using LSTM neural networks and Zillow ZHVI time-series housing data
 
 
