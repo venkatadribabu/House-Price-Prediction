@@ -1,0 +1,26 @@
+{
+  "region_name": "Kansas City",
+  "state": "MO",
+  "lookback": 60,
+  "hidden": 128,
+  "num_layers": 1,
+  "dropout": 0.0,
+  "residual_readout": false,
+  "input_size": 1,
+  "feature_columns": [
+    "log1p_price"
+  ],
+  "preprocess": "log1p_standard",
+  "train_ratio": 0.8,
+  "epochs_ran": 150,
+  "epochs_cap": 150,
+  "batch_size": 64,
+  "lr": 0.001,
+  "artifact_tag": "e1e4456f90ab763d",
+  "metrics": {
+    "rmse": 6710.442402304924,
+    "mae": 6108.625341769208,
+    "r2": 0.8669923417521753
+  },
+  "csv_path": "C:\\Users\\harsh\\Downloads\\City_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv"
+}
