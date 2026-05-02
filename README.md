@@ -1,9 +1,6 @@
 # Predictive Modeling for Accurate Housing Price Estimation Using LSTM Networks
 A deep learning-based real estate forecasting system using LSTM neural networks and Zillow ZHVI time-series housing data
 
-
-# Predictive Modeling for Accurate Housing Price Estimation Using LSTM and Machine Learning
-
 ### Submitted By
 
 * *Venkatadri Babu Sarvepalli* — 700766436
